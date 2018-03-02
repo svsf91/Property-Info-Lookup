@@ -2,6 +2,9 @@
 
 > A Vue.js project
 
+## Deply
+https://stupefied-turing-b1dd60.netlify.com/#/
+
 ## Build Setup
 
 ``` bash
