@@ -5,6 +5,6 @@
 ```npm start```
 ## Tech Stacks
 ### front-end:
-[VueJS](https://vuejs.org/)
+[[VueJS]](https://vuejs.org/)
 ### back-end:
-[ExpressJS](https://expressjs.com/), [NodeJS](https://nodejs.org/en/), [MongoDB](https://www.mongodb.com/)
+[[ExpressJS]](https://expressjs.com/), [[NodeJS]](https://nodejs.org/en/), [[MongoDB]](https://www.mongodb.com/)
