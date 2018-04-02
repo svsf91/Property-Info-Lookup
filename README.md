@@ -1,13 +1,10 @@
 # Website for looking up property info
-
 ## Deploy address
-https://stupefied-turing-b1dd60.netlify.com/#/
----------------------------------
+[PropertyInfo](https://stupefied-turing-b1dd60.netlify.com/)
+----
 ## How to use
-```
-npm start
-```
----------------------------------
+```npm start```
+----
 ## Tech Stacks
 ### front-end:
 [VueJS](https://vuejs.org/)
