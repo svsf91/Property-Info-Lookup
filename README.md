@@ -1,4 +1,4 @@
-## This is a website for looking up property info
+# Website for looking up property info
 
 ### Deploy address
 https://stupefied-turing-b1dd60.netlify.com/#/
